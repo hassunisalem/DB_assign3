@@ -11,5 +11,5 @@ As the procdure still was'nt found, i tried connecting one of the cores to the N
 due to some secruty issues, even though the *dbms.security.auth_enabled* was set to false.
 
 During these different approaches, my java aplication could'nt connect to the database anymore. If i had more time, futher development would be to recreate the java aplication
-and make all the cores and replicas, from the desktop app, then go inside each file and edit their *neo4j conf. file*
+and make all the cores and replicas, from the desktop app with the necessary plugins, then go inside each file and edit their *neo4j conf. file*
  
